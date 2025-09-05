@@ -8,7 +8,7 @@ body {
 
 header,footer
 {
-  background-color:black;
+  background-color: chocolate;
   color: rgb(196, 237, 100);
   text-align: center;
   padding: 1rem;
@@ -96,7 +96,7 @@ blockquote {
 }
 .sigma {
   font-size: 2rem;
-  color: chocolate;
+  color: black;
   text-decoration: underline;
 }
 .gc {
