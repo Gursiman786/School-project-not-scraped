@@ -60,11 +60,11 @@ nav a {
 }
 
 .dish {
-  border: 10px solid chocolate;
+  border: 10px solid rgb(255, 114, 20);
   padding: 10px;
   text-align: center;
-  width: 300px; /* Adjust as needed */
-  border-radius: 10px;
+  width: 500px; /* Adjust as needed */
+  border-radius: 12px;
   text-decoration: solid;
 }
 
@@ -83,19 +83,21 @@ blockquote {
 }
 .introduction-container {
   text-align: center;
+  font-weight: 600;
   padding: 20px;
-   font-size: 1.5rem;
-  color: chocolate;
-  text-decoration: underline;
+  font-size: 2rem;
+  color: rgb(255, 114, 20)
+  
 }
 .px {
-    font-size: 1.2rem;
-    color: chocolate;
+    font-size: 1.4rem;
+    color:rgb(255, 114, 20);
 }
 .xy{
     font-size: 1.5rem;
-    color: chocolate;
+    color: rgb(255, 114, 20);
     text-decoration: underline;
+    font-weight: 600;
 }
 .sigma {
   font-size: 2rem;
