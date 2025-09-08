@@ -10,7 +10,8 @@ body {
 
 header,footer
 {
-  background-color:crimson;
+  background-color
+  :darksalmon;
   text-align: center;
   padding: 1rem;
   color: blanchedalmond;
@@ -27,7 +28,7 @@ nav a {
   color: #fff;
   text-decoration: none;
   font-weight: bold;
-  color: coral;
+  color:beige;
 }
 
 .hero {
@@ -70,6 +71,8 @@ nav a {
 .testimonials {
   padding: 20px;
   text-align: center;
+  color: brown;
+  font-weight: 600;
 }
 
 blockquote {
@@ -98,9 +101,11 @@ blockquote {
   font-size: 2rem;
   color: burlywood;
   text-decoration: underline;
+  color:beige;
 }
 .gc {
-  font-size: 1.8rem;
+  font-size: 2.4rem;
   color: chocolate;
   text-decoration: underline;
+  font-weight: 500;
 }
