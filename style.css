@@ -83,11 +83,10 @@ blockquote {
 }
 .introduction-container {
   text-align: center;
-  font-weight: 600;
+  font-weight: 500;
   padding: 20px;
   font-size: 2rem;
   color: rgb(255, 114, 20)
-  
 }
 .px {
     font-size: 1.4rem;
@@ -110,4 +109,8 @@ blockquote {
   color: chocolate;
   text-decoration: underline;
   font-weight: 500;
+}
+img{
+  border: 10px solid red;
+  margin: 2px 2px;
 }
